@@ -7,11 +7,11 @@
 
 - 💬 Ask me about **React, Django, Flask**
 
-- 📫 How to reach me **contact@tamal.me**
+- 📫 How to reach me **stamal2001@gmail.com**
 
 - 📄 Know about my experiences [Tamal.Me](http://www.tamal.me/)
 
-- ⚡ Fun fact **I am an engineer**
+- ⚡ Fun fact **I am a MCA Student**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
