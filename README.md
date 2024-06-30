@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stamal2001&label=Profile%20views&color=0e75b6&style=flat" alt="stamal2001" /> </p>
 
-- 👨‍💻 All of my projects are available at [Tamal.Me](http://www.tamal.me)
+- 👨‍💻 All of my projects are available at [Tamal.Me](https://tamal-protfolio.netlify.app)
 
-- 💬 Ask me about **React, Django, Flask**
+- 💬 Ask me about **Java, Front-end, Back-end,**
 
 - 📫 How to reach me **stamal2001@gmail.com**
 
-- 📄 Know about my experiences [Tamal.Me](http://www.tamal.me/)
+- 📄 Know about my experiences [Tamal.Me](https://tamal-protfolio.netlify.app)
 
 - ⚡ Fun fact **I am a MCA Student**
 
